@@ -1,0 +1,2 @@
+# Qamcore
+Software engineering project.
